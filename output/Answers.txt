@@ -1,0 +1,2 @@
+Number of associations after 2020: 3284
+Missense variants among them: 85
