@@ -1,2 +1,20 @@
+Wed Aug 24 03:50:07 PM BST 2022
+"score"
+"diseaseFromSource"
+"studyId"
+"publicationYear"
+"oddsRatio"
+"beta"
+"variantId"
+"variantRsId"
+"target.id"
+"target.approvedSymbol"
+"disease.id"
+"disease.name"
+"variantFunctionalConsequence.label"
+"gene_family"
+"disease.category"
+383
+6
 Number of associations after 2020: 3284
 Missense variants among them: 85
