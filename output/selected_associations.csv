@@ -1,0 +1,16 @@
+score,disease.name,gene_family
+0.904889702796936,rheumatoid arthritis,OTHER
+0.904532492160797,Crohn's disease,OTHER
+0.903563439846039,inflammatory bowel disease,OTHER
+0.902274966239929,Hashimoto's thyroiditis,OTHER
+0.900398552417755,autoimmune thyroid disease,OTHER
+0.899714410305023,Crohn's disease,SLC
+0.89825564622879,Crohn's disease,SLC
+0.892413675785065,chronic lymphocytic leukemia,GPCR
+0.886632561683655,chronic lymphocytic leukemia,GPCR
+0.884158372879028,Graves disease,GPCR
+0.882761299610138,atopic eczema,SLC
+0.882761299610138,allergic rhinitis,SLC
+0.875480651855469,Hashimoto's thyroiditis,GPCR
+0.87411242723465,Thyrotoxicosis,GPCR
+0.839591145515442,lymphatic system disease,SLC
